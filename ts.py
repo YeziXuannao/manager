@@ -8,6 +8,7 @@ def loop_pow(mark_count, b):
             loop_pow(mark_count, b)
         else:
             return mark_count
+            a = 1
     return mark_count
 
 
